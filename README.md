@@ -68,7 +68,7 @@ Development activities are managed through GitHub Issues, Milestones, and Projec
 |---|---|
 | GitHub Organization | [SaveCue-Team](https://github.com/SaveCue-Team) |
 | Repository | [SaveCue](https://github.com/SaveCue-Team/SaveCue) |
-| Project Board | [Organization Projects](https://github.com/orgs/SaveCue-Team/projects) |
+| Project Board | [Organization Projects](https://github.com/users/maianh183/projects/1/views/1) |
 | GitHub Issues | [Issues & Backlog](https://github.com/SaveCue-Team/SaveCue/issues) |
 | Milestones | [Development Milestones](https://github.com/SaveCue-Team/SaveCue/milestones) |
 | Project Wiki | [Documentation](https://github.com/SaveCue-Team/SaveCue/wiki) |
